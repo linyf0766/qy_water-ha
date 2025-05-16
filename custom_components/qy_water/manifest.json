@@ -7,5 +7,7 @@
   "issue_tracker": "https://github.com/linyf0766/qy_water-ha/issues",
   "codeowners": ["@linyf0766e"],
   "requirements": ["beautifulsoup4>=4.12.3", "requests>=2.31.0"],
-  "iot_class": "cloud_polling"
+  "iot_class": "cloud_polling",
+  "hacs": "1.6.0",
+  "render_readme": true
 }
