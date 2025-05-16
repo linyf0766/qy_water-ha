@@ -1,5 +1,6 @@
 # 清远水务Home Assistant集成
 通过Home Assistant获取清远自来水账单，代码由AI生成
+
 ![image](https://github.com/user-attachments/assets/f00f538c-6703-434d-82b7-2c675325c150)
 
 # 安装
@@ -9,6 +10,7 @@
    
 # 使用
 输入oid（用户oid）、updatetime（更新间隔默认10分钟)
+
 ![image](https://github.com/user-attachments/assets/552228bf-5f95-4367-9e4b-9ac800bff40a)
 
 # 获取用户oid
