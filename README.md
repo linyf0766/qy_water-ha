@@ -1,5 +1,5 @@
-# 清远水务Home Assistant集成
-通过Home Assistant获取清远自来水账单，代码由AI生成
+# 清远水务Home Assistant集成，代码由AI生成
+通过Home Assistant获取清远自来水账单
 
 ![image](https://github.com/user-attachments/assets/f00f538c-6703-434d-82b7-2c675325c150)
 
@@ -15,4 +15,5 @@
 
 # 获取用户oid
 微信关注《清远市供水拓展有限责任公司》公众号，绑定用户自来水账号；
+
 打开业务查询》水费账单，在弹出的窗口复制网页链接，在网页链接找到oid=xxx，xxx即为oid
