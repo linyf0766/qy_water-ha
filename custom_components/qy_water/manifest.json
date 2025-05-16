@@ -1,0 +1,11 @@
+{
+  "domain": "qy_water",
+  "name": "清远水务",
+  "version": "1.0.3",
+  "config_flow": true,
+  "documentation": "https://example.com",
+  "issue_tracker": "https://example.com/issues",
+  "codeowners": ["@yourusername"],
+  "requirements": ["beautifulsoup4>=4.12.3", "requests>=2.31.0"],
+  "iot_class": "cloud_polling"
+}
